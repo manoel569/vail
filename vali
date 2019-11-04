@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,band
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_84961a7c71a9f6c2ce26b67fe89302663b7a961f/playlist.m3u8
+#EXTINF:-1,Rede Tv
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
+#EXTINF:-1,Fazenda 11
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/afazenda_70ac2ffc_3cbf4de49819674ace18d2b603ec981963ba4978/playlist.m3u8
+#EXTINF:-1,Record
+http://http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/record_3554dce5_ca75fdf69966718cb38faa8f8a32277dc6099bec/playlist.m3u8
